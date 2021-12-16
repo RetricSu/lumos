@@ -261,7 +261,7 @@ dependencies = [
 [[package]]
 name = "ckb-indexer"
 version = "0.1.6"
-source = "git+https://github.com/xxuejie/ckb-indexer?rev=f7d039c#f7d039ca54f221c82821306b16f9e795c5a3e123"
+source = "git+https://github.com/RetricSu/ckb-indexer?rev=99dc86e#99dc86e7a7c87e346bd33d023e97c58ba375051d"
 dependencies = [
  "ckb-jsonrpc-types",
  "ckb-types",

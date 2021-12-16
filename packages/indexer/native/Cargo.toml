@@ -15,7 +15,7 @@ crate-type = ["cdylib"]
 neon-build = "0.4.0"
 
 [dependencies]
-ckb-indexer = { git = "https://github.com/xxuejie/ckb-indexer", rev = "f7d039c" }
+ckb-indexer = { git = "https://github.com/RetricSu/ckb-indexer", rev = "99dc86e" }
 ckb-jsonrpc-types = "0.100.0-rc2"
 ckb-types = "0.100.0-rc2"
 env_logger = "0.7.1"
